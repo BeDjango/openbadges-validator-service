@@ -7,12 +7,12 @@
   "dependencies": {
     "dataurl": "~0.1.0",
     "express": "~3.1.0",
-    "openbadges-validator": "1.1.1",
     "bunyan": "~0.21.4",
     "nunjucks": "~0.1.9",
     "gelf-stream": "~0.2.2",
     "newrelic": "~0.10.3",
-    "jws": "~0.2.2"
+    "jws": "~0.2.2",
+    "openbadges-validator": "git+https://github.com/BeDjango/openbadges-validator.git"
   },
   "devDependencies": {
     "mocha": "~1.9.0",
